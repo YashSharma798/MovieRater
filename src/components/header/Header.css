@@ -5,6 +5,24 @@
     display: flex;
     justify-content:space-between;
 }
+.title{
+    font-size: 1.5rem;
+    margin: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    
+}
+.title{
+    display: block;
+    background-color: #445A6F;
+    border: 1px solid #445A6F;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem;
+    margin: 1rem;
+}
 
 .headerLeft, .headerRight {
     display: flex;
